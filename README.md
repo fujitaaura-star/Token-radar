@@ -1,5 +1,9 @@
 # Token Radar — make.fun token-radar-01
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/fujitaaura-star/Token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/fujitaaura-star/Token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar: it reads a sealed DefiLlama snapshot, works out which
 protocols still record no token (and are not a wrapped, staked or bridged
 product of one that trades), ranks them by what their launch would be worth,
@@ -85,3 +89,7 @@ timestamp in any output.
   market cap per TVL varies by orders of magnitude even inside one
   category. The board shows them anyway, next to the flat multiple they
   beat, rather than hiding the model's error.
+
+---
+
+Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards
